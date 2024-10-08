@@ -6,6 +6,10 @@ body {
  
  #container{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 4rem;
+    gap: 3rem;
  }
  
  
@@ -54,6 +58,11 @@ body {
     color: var(--card-front-color-);
     font-weight: 700;
  }
+
+ .cartao:hover .cartao__conteudo{
+   transform: rotateY(180deg);
+   }
+
  footer {
     background-color: black;
     color: white;
@@ -73,10 +82,4 @@ body {
     --text-color: #000000;
     --card-front-color: #000000 ;
     --card-back-color: #00fff2 ;
- }
- .cartao:hover .cartao__conteudo{
- transform: rotate(180deg);
- }
- .cartao__conteudo__resposta{
-    transform: rotate(180deg);
  }
