@@ -1,20 +1,20 @@
 criaCartao(
-'Programação',
-'O que é JavaScript?',
-'o JavaScript é uma linguagem de programação'  
+'musica',
+'a danada me ligando',
+'nós segui o procedimento'  
 )
 criaCartao(
-    'Geografia',
-    'Qual a capital da França',
-    'A capital da França é Paris'
+    'futebol',
+    'quem deveria ganhar a bola de ouro2024?',
+    'Vinicius jr'
  )
  criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de códigos que executa uma função'
+    'jogos',
+    'Free fire é um jogo de?',
+    'battle royale'
  )
  criaCartao(
-    'Matemática',
-    'Qual o resutado de 2 x 2?',
-    'o resultado é 4' 
+    'matematica',
+    'Qual o resutado de 100 -10%?',
+    'o resultado é 90' 
 )
